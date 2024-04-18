@@ -1,0 +1,4 @@
+MatPBRBasic {
+ BCRMap "{0ED992BDE6B10710}Assets/Structures/LargeGarage/Data/LargeGarage_BCR.edds"
+ NMOMap "{3601292F3FC6558E}Assets/Structures/LargeGarage/Data/LargeGarage_NMO.edds"
+}

@@ -7564,10 +7564,6 @@ $grp PolylineShapeEntity {
   }
  }
 }
-SCR_DestructibleBuildingEntity {
- coords 7901.771 0.002 6000.224
- angleY -161.731
-}
 $grp SplineShapeEntity {
  {
   coords 8292.537 10.533 6326.568
@@ -13751,9 +13747,6 @@ $grp SplineShapeEntity {
    }
   }
  }
- {
-  coords 7922.532 7.453 5999.945
- }
 }
 StaticModelEntity : "{07F043DD6AACCD0B}Prefabs/Structures/Infrastructure/Barriers/BarGate_01/BarGate_01.et" {
  coords 7874.077 0.02 5989.469
@@ -13821,6 +13814,16 @@ SCR_DestructibleBuildingEntity : "{6E10F2B9F8C8BB2C}Prefabs/Structures/Cultural/
  coords 8265.854 -0.036 6206.321
  angleY 74.978
 }
+$grp GenericEntity : "{80C76FE964D7309E}Prefabs/Structures/LargeGarage/LargeGarage.et" {
+ {
+  coords 8831.44 9.902 7320.239
+  angleY 109.354
+ }
+ {
+  coords 8535.232 10.406 6671.571
+  angleY -170.697
+ }
+}
 $grp StaticModelEntity : "{80DF3BD810D032AF}Prefabs/Structures/Industrial/Towers/LightTower_01/LightTower_01.et" {
  {
   coords 8337.979 10.501 6451.418
@@ -13857,16 +13860,6 @@ $grp SCR_DestructibleBuildingEntity : "{A92A5F3B79FF56BE}Prefabs/Structures/Indu
 SCR_DestructibleBuildingEntity : "{AAB9EC1130878E02}Prefabs/Structures/Ruins/HouseRuins/HouseRuin_01/HouseRuin_01_Corner.et" {
  coords 8279.861 0.001 6198.159
  angleY 55.292
-}
-$grp GenericEntity : "{AFE444383A2F158D}Prefabs/Structures/Garage/JC2_Garage.et" {
- {
-  coords 8536.605 10.407 6660.297
-  angleY 9.053
- }
- {
-  coords 8836.802 10.064 7318.24
-  angleY -69.27
- }
 }
 $grp GenericEntity : "{B6A096447B215355}Prefabs/Rocks/Granite/GraniteCliff_03.et" {
  {

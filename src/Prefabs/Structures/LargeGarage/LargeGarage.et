@@ -1,0 +1,15 @@
+GenericEntity {
+ ID "61252D1BD0B517BA"
+ components {
+  MeshObject "{61252D1BD0B5178E}" {
+   Object "{3102134584DD6203}Assets/Structures/LargeGarage/LargeGarage_PAINT.xob"
+   ClutterOccluder 0
+  }
+  RigidBody "{61252D1BD0B51789}" {
+   ModelGeometry 1
+   Static 1
+  }
+ }
+ coords 8831.44 9.902 7320.239
+ angleY 109.354
+}

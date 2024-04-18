@@ -43,5 +43,7 @@ MetaFileClass {
    SuperSource SourceTextureClass "{5C7649C8CFD40CF8}" : "{5506B811545F4686}Configs/System/ResourceTypes/HEADLESS/TextureTerrainSuper.conf" {
    }
   }
+  TerrainResourceClass PS5 : PC {
+  }
  }
 }
