@@ -1,0 +1,9 @@
+MatPBRBasic {
+ RoughnessScale 1.037
+ MetalnessScale 5
+ BCRMap "{1B96E12CD9F6087F}Assets/Textures/Metal_006_basecolor.edds"
+ OpacityMap "{E1D43A662EF56C97}Assets/Textures/Metal_006_roughness.edds"
+ DetailNormalPower 4
+ DetailNormalMap "{B06A539F3F9CBEFC}Assets/Textures/Metal_006_normal.edds"
+ HeightMap "{7426C98A8B960D87}Assets/Textures/Metal_006_height.edds"
+}

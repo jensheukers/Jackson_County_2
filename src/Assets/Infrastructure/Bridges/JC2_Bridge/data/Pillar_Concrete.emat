@@ -1,0 +1,7 @@
+MatPBRBasic {
+ MetalnessScale 1.584
+ BCRMap "{10522CCA4885C8C9}Assets/Textures/Concrete_Wall_012_basecolor.edds"
+ DetailNormalPower 1
+ DetailNormalMap "{4D897D14054CCF84}Assets/Textures/Concrete_Wall_012_normal.edds"
+ HeightMap "{89C5E701B1467CFF}Assets/Textures/Concrete_Wall_012_height.edds"
+}

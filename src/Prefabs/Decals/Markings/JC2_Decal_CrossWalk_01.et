@@ -1,0 +1,6 @@
+DecalEntity : "{1BCCB7FD57F20F04}Prefabs/Decals/Core/Decal_Base.et" {
+ ID "50E4C31FCE7FE3EB"
+ coords -0.525 2.364 1.442
+ scale 5
+ Mat "{CF33EEC97852C037}e76_roads/Decals/usc_x_kr_4lanes_cw_ca.emat"
+}

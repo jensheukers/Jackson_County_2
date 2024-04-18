@@ -1,0 +1,7 @@
+MatPBRBasic {
+ BCRMap "{10522CCA4885C8C9}Assets/Textures/Concrete_Wall_012_basecolor.edds"
+ OpacityMap "{9A6D3820B0D9C756}Assets/Textures/Concrete_019_Roughness.edds"
+ DetailNormalPower 4
+ DetailNormalMap "{7D3081B098868505}Assets/Textures/Concrete_019_Normal.edds"
+ HeightMap "{B97C1BA52C8C367E}Assets/Textures/Concrete_019_Height.edds"
+}

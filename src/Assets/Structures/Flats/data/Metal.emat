@@ -1,0 +1,6 @@
+MatPBRBasic {
+ BCRMap "{F380863028A67C74}Assets/Structures/Flats/data/Textures/Metal_Corrugated_010_basecolor.edds"
+ DetailNormalPower 4
+ DetailNormalMap "{C70BB46E277623D9}Assets/Structures/Flats/data/Textures/Metal_Corrugated_010_normal.edds"
+ HeightMap "{03472E7B937C90A2}Assets/Structures/Flats/data/Textures/Metal_Corrugated_010_height.edds"
+}

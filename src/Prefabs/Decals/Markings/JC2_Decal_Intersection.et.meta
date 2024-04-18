@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{D9FA7CEF33A25C5F}Prefabs/Decals/Markings/JC2_Decal_Intersection.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

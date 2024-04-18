@@ -1,0 +1,6 @@
+DecalEntity : "{1BCCB7FD57F20F04}Prefabs/Decals/Core/Decal_Base.et" {
+ ID "50E4C31FCE7FE3EB"
+ coords -0.525 2.364 1.442
+ scale 5
+ Mat "{B5D1FF81BC8292C9}e76_roads/us_asf1_noline.emat"
+}

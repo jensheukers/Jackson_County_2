@@ -1,0 +1,6 @@
+MatPBRDecal {
+ AlphaTest 0.324
+ BlendMode AlphaBlend
+ BCRMap "{1BF6FFA63193C2AD}e76_roads/Data/Decals/usc_x_kr_4lanes_cw_ca.edds"
+ NMOMap "{6073EF53124CB2F2}e76_roads/Data/asphalt_nohq.edds"
+}

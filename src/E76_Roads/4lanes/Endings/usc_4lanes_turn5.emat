@@ -1,0 +1,4 @@
+MatPBRRoadEnd {
+ BCRMap "{5E5D5C33B69BAC6E}e76_roads/Data/4lanes/usc_4lanes_turn5_ca.edds"
+ NMOMap "{ED70513A291153DD}e76_roads/Data/us1_2l_NOHQ.edds"
+}

@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{1AFDB29F63F55739}e76_roads/4lanes/usc_4lanes_fl_ending.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

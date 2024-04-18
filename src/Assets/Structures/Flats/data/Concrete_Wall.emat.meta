@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{F86667CCE9EDD7E0}Assets/Structures/Flats/data/Concrete_Wall.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

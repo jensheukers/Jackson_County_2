@@ -1,0 +1,5 @@
+MatPBRRoad {
+ BCRMap "{39144045FC575AD6}e76_roads/Data/us_asf1_fullline2_ca.edds"
+ OpacityMap "{1372E72533B5518C}e76_roads/Data/us1_2l_SM.edds"
+ NMOMap "{ED70513A291153DD}e76_roads/Data/us1_2l_NOHQ.edds"
+}

@@ -1,0 +1,67 @@
+MetaFileClass {
+ Name "{40C88A56E41AFB00}Assets/Structures/Infrastructure/Bridges/JC2_Bridge/jc2_bridge.xob"
+ Configurations {
+  FBXResourceClass PC {
+   MaterialAssigns {
+    MaterialAssignClass "{5D1B014386E2D538}" {
+     SourceMaterial "Pillar_Concrete"
+     AssignedMaterial "{A2EE13DDF70724CF}Assets/Structures/Infrastructure/Bridges/JC2_Bridge/data/Pillar_Concrete.emat"
+    }
+    MaterialAssignClass "{5D1B014386E2D51D}" {
+     SourceMaterial "Concrete"
+     AssignedMaterial "{1989BD15D4D2567C}Assets/Structures/Infrastructure/Bridges/JC2_Bridge/data/Concrete.emat"
+    }
+    MaterialAssignClass "{5D1B014386E2D511}" {
+     SourceMaterial "Road"
+     AssignedMaterial "{BDA731B4723EB93B}Assets/Structures/Infrastructure/Bridges/JC2_Bridge/data/Road.emat"
+    }
+    MaterialAssignClass "{5D1B014386E2D516}" {
+     SourceMaterial "Nylon_Rope"
+     AssignedMaterial "{7B02250AA258DB3C}Assets/Structures/Infrastructure/Bridges/JC2_Bridge/data/Nylon_Rope.emat"
+    }
+   }
+   MeshParams {
+    MeshParam Bridge_Pillar {
+    }
+    MeshParam Bridge_Platform {
+    }
+    MeshParam Bridge_Rope {
+    }
+   }
+   GeometryParams {
+    GeometryParam UTM_Pillar {
+     SurfaceProperties {
+      "{536BF67B2052B869}material/metal.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UTM_Platform {
+     SurfaceProperties {
+      "{536BF67B2052B869}material/metal.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+   }
+   Common TXOCommonClass "{5D1B01438691D6C6}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_ONE : PC {
+   Common TXOCommonClass "{5D1B01438691D7CC}" : "{9D5B6207F7628CE2}Configs/System/ResourceTypes/XBOX_ONE/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_SERIES : PC {
+   Common TXOCommonClass "{5D1B01438691D70C}" : "{DD9F02115C764647}Configs/System/ResourceTypes/XBOX_SERIES/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS4 : PC {
+   Common TXOCommonClass "{5D1B01438691D77F}" : "{53EC476BC921D99A}Configs/System/ResourceTypes/PS4/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass HEADLESS : PC {
+   Common TXOCommonClass "{5D1B01438691D757}" : "{3A5B3356978039E8}Configs/System/ResourceTypes/HEADLESS/MeshObjectCommon.conf" {
+   }
+  }
+ }
+}

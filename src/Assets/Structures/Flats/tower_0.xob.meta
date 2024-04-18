@@ -1,0 +1,79 @@
+MetaFileClass {
+ Name "{FEF8D3E21DD09E95}Assets/Structures/Flats/tower_0.xob"
+ Configurations {
+  FBXResourceClass PC {
+   MaterialAssigns {
+    MaterialAssignClass "{5D1716A9EA3E224A}" {
+     SourceMaterial "Glass"
+     AssignedMaterial "{52927BA6AB58D00A}Assets/Structures/Flats/data/Glass.emat"
+    }
+    MaterialAssignClass "{5D1716A9EA3E23AB}" {
+     SourceMaterial "Concrete"
+     AssignedMaterial "{7E01772C1263FD65}Assets/Structures/Flats/data/Concrete.emat"
+    }
+    MaterialAssignClass "{5D1716A9EA3E23A9}" {
+     SourceMaterial "Metal"
+     AssignedMaterial "{541C18AA9C231351}Assets/Structures/Flats/data/Metal.emat"
+    }
+    MaterialAssignClass "{5D1716A9EA3E23AD}" {
+     SourceMaterial "Concrete_Wall"
+     AssignedMaterial "{F86667CCE9EDD7E0}Assets/Structures/Flats/data/Concrete_Wall.emat"
+    }
+    MaterialAssignClass "{5D1716A9EA3E23A2}" {
+     SourceMaterial "ShopFront1"
+     AssignedMaterial "{275E9B159938C359}Assets/Structures/Flats/data/ShopFront1.emat"
+    }
+    MaterialAssignClass "{5D1716A9EA3E23A6}" {
+     SourceMaterial "ShopFront2"
+     AssignedMaterial "{79B6B25626B54D56}Assets/Structures/Flats/data/ShopFront2.emat"
+    }
+   }
+   MeshParams {
+    MeshParam Plane {
+    }
+    MeshParam StoreFront {
+    }
+    MeshParam "StoreFront.001" {
+    }
+    MeshParam StoreFrontSide {
+    }
+    MeshParam "StoreFrontSide.LOD0" {
+    }
+   }
+   GeometryParams {
+    GeometryParam UBX_Building {
+     SurfaceProperties {
+      "{536BF67B2052B869}material/metal.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UTM_ShopFront {
+     SurfaceProperties {
+      "{536BF67B2052B869}material/metal.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+   }
+   Common TXOCommonClass "{5D1716A9EA348ECF}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_ONE : PC {
+   Common TXOCommonClass "{5D1716A9EA348FED}" : "{9D5B6207F7628CE2}Configs/System/ResourceTypes/XBOX_ONE/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_SERIES : PC {
+   Common TXOCommonClass "{5D1716A9EA348F25}" : "{DD9F02115C764647}Configs/System/ResourceTypes/XBOX_SERIES/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS4 : PC {
+   Common TXOCommonClass "{5D1716A9EA348F1A}" : "{53EC476BC921D99A}Configs/System/ResourceTypes/PS4/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass HEADLESS : PC {
+   Common TXOCommonClass "{5D1716A9EA348F71}" : "{3A5B3356978039E8}Configs/System/ResourceTypes/HEADLESS/MeshObjectCommon.conf" {
+   }
+  }
+ }
+}

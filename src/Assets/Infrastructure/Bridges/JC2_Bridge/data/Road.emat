@@ -1,0 +1,7 @@
+MatPBRBasic {
+ SpecularMul 0.2
+ RoughnessScale 3
+ BCRMap "{7C7C260B2D396546}E76_Roads/Data/us1_dl_ca.edds"
+ DetailNormalPower 1
+ DetailNormalMap "{4FF6C4D4DDAE9224}E76_Roads/Data/us1_DL_nohq.edds"
+}

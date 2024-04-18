@@ -1,0 +1,4 @@
+MatPBRRoad {
+ BCRMap "{4A8AD7875FE6AD07}e76_roads/Data/4lanes/usc_4lanes_fl_ca.edds"
+ NMOMap "{ED70513A291153DD}e76_roads/Data/us1_2l_NOHQ.edds"
+}

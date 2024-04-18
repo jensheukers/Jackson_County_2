@@ -1,0 +1,31 @@
+RoadGeneratorEntity {
+ ID "5C77168FC196B718"
+ coords 0 0 0
+ Flags 1048579
+ GeneratorType GeneratorTypeRoad "{5C77168FC196E693}" {
+ }
+ AdjustHeightMap 1
+ AdjustHeightMapPriority 50
+ RoadClearance 6
+ RoadWidth 12
+ RoadFalloffWidth 2
+ {
+  RoadEntity {
+   ID "5C77168FC196E688"
+   coords 0 0 0
+   SplinePoints {
+    ShapePoint "{556C6554868CB1B0}" {
+     Position 0 -0.001 0
+    }
+    ShapePoint "{556C6554868CB0CE}" {
+     Position 5 -0.025 0
+    }
+   }
+   IsClosedSpline 0
+   Type "Road Main"
+   Width 15
+   Material "{ACE376BCEFA837B3}e76_roads/us1_2l.emat"
+   RandomSeed 9939
+  }
+ }
+}

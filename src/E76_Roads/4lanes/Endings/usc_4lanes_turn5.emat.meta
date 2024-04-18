@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{AF5FE5E83D4B15E2}e76_roads/4lanes/usc_4lanes_turn5.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

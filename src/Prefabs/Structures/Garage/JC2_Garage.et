@@ -1,0 +1,14 @@
+GenericEntity {
+ ID "5D177E6A9A80A637"
+ components {
+  MeshObject "{5D177E619AA158C2}" {
+   Object "{A675BE73C401B03F}Assets/Structures/Garage/garage.xob"
+  }
+  RigidBody "{5D177E61A52AF184}" {
+   ModelGeometry 1
+   Static 1
+  }
+ }
+ coords 8537.052 10.407 6662.809
+ angleY 9.493
+}

@@ -1,0 +1,13 @@
+GenericEntity {
+ ID "5D1B4B47981143B1"
+ components {
+  MeshObject "{5D1B4B474991DE62}" {
+   Object "{40C88A56E41AFB00}Assets/Infrastructure/Bridges/JC2_Bridge/jc2_bridge.xob"
+  }
+  RigidBody "{5D1B4B47A9247C36}" {
+   ModelGeometry 1
+   Static 1
+  }
+ }
+ coords 6921.778 0 4817.617
+}

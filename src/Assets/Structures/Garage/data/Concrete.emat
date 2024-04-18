@@ -1,0 +1,6 @@
+MatPBRBasic {
+ BCRMap "{602FE36A47DAA3BE}Assets/Textures/Concrete_019_BaseColor.edds"
+ DetailNormalPower 3.941
+ DetailNormalMap "{7D3081B098868505}Assets/Textures/Concrete_019_Normal.edds"
+ HeightMap "{B97C1BA52C8C367E}Assets/Textures/Concrete_019_Height.edds"
+}

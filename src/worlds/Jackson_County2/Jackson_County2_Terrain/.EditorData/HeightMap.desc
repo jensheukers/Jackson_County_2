@@ -1,0 +1,7 @@
+HeightMapImportDescClass {
+ FileName "C:/Users/jensh/OneDrive/Documenten/My Games/ArmaReforgerWorkbench/addons/Jackson_County_2/source/heightfield.asc"
+ Flags 1
+ MinHeight -1000000
+ ResampleMinHeight 0
+ ResampleMaxHeight 1
+}

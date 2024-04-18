@@ -1,0 +1,8 @@
+MatPBRBasic {
+ SpecularMul 0
+ RoughnessScale 5
+ BCRMap "{721595E9A23AAB62}Assets/Textures/Nylon_Cord_001_basecolor.edds"
+ DetailNormalPower 1
+ DetailNormalMap "{D3D42AE389F3128B}Assets/Textures/Nylon_Cord_001_normal.edds"
+ HeightMap "{1798B0F63DF9A1F0}Assets/Textures/Nylon_Cord_001_height.edds"
+}

@@ -1,0 +1,5 @@
+MatPBRRoadEnd {
+ BCRMap "{877DEFCE2938C5AC}e76_roads/Data/us1_dl_konec_ca.edds"
+ OpacityMap "{E2B0C1FE3D466E48}e76_roads/Data/us1_DL_sm.edds"
+ NMOMap "{4FF6C4D4DDAE9224}e76_roads/Data/us1_DL_nohq.edds"
+}

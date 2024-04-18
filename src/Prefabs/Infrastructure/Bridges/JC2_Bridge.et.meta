@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{A0DFA449B6CAAD9D}Prefabs/Infrastructure/Bridges/JC2_Bridge.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,15 @@
+GenericEntity {
+ ID "5D16E979F155BD00"
+ components {
+  MeshObject "{5D16E979A82102AC}" {
+   Object "{FEF8D3E21DD09E95}Assets/Structures/Flats/tower_0.xob"
+  }
+  RigidBody "{5D16E97B118A3052}" {
+   ResponseIndex "HugeDestructible"
+   ModelGeometry 1
+   Static 1
+  }
+ }
+ coords 8522.35 9.12 6732.896
+ angleY 8.441
+}

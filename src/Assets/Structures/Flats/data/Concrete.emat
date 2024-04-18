@@ -1,0 +1,7 @@
+MatPBRBasic {
+ EmissiveMap "{E96ECDD83824ECD0}Assets/Structures/Flats/data/Textures/Concrete_Wall_012_ambientOcclusion.edds"
+ BCRMap "{602FE36A47DAA3BE}Assets/Structures/Flats/data/Textures/Concrete_019_BaseColor.edds"
+ DetailNormalPower 3.516
+ DetailNormalMap "{7D3081B098868505}Assets/Structures/Flats/data/Textures/Concrete_019_Normal.edds"
+ HeightMap "{B97C1BA52C8C367E}Assets/Structures/Flats/data/Textures/Concrete_019_Height.edds"
+}

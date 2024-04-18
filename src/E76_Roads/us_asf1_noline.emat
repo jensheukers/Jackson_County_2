@@ -1,0 +1,4 @@
+MatPBRBasic {
+ BCRMap "{2B3897DD15A10E5F}e76_roads/Data/us_asf1_noline_ca.edds"
+ NMOMap "{6073EF53124CB2F2}e76_roads/Data/asphalt_nohq.edds"
+}

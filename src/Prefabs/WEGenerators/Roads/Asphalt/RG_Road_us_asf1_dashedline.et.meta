@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{B48BEE7B554665B5}Prefabs/WEGenerators/Roads/Asphalt/RG_Road_us_asf1_dashedline.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

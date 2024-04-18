@@ -1,0 +1,8 @@
+GameProject {
+ ID "JacksonCounty2"
+ GUID "5C76238849F4978A"
+ TITLE "Jackson_County_2"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}

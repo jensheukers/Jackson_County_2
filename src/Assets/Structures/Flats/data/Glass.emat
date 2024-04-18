@@ -1,0 +1,10 @@
+MatPBRBasic {
+ DiffuseIBL 0.031 0.031 0.031 1
+ Diffuse 0.018 0.018 0.018 1
+ SpecularMul 2
+ MetalnessScale 0.641
+ DielectricReflectance 0.141
+ EnvReflMap "{B360B64D69A3D00E}Terrains/Common/Sky/SkyBox/Data/clearSkyEnv.edds"
+ BCRMap "{46688C5393B8BE7D}Assets/Structures/Flats/data/Textures/tower_glass.edds"
+ OpacityMap "{8B59275E8F260750}Assets/_SharedData/Glass/ST_Glass_Test_01_BCR.edds"
+}

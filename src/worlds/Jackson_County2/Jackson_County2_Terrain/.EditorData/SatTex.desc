@@ -1,0 +1,7 @@
+SatGenDescClass {
+ FileName "C:/Users/jensh/OneDrive/Documenten/My Games/ArmaReforgerWorkbench/addons/Jackson_County_2/source/sattelite.png"
+ sRGBOutput 1
+ RenderRoads 1
+ Interpolation nearest
+ RoadsAA "8x"
+}

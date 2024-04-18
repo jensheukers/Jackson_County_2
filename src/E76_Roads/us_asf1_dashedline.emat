@@ -1,0 +1,6 @@
+MatPBRRoad {
+ BCRMap "{499D8B870B31D996}e76_roads/Data/us_asf1_dashedline_ca.edds"
+ NMOMap "{4FF6C4D4DDAE9224}e76_roads/Data/us1_DL_nohq.edds"
+ HeightMap "{4FF6C4D4DDAE9224}e76_roads/Data/us1_DL_nohq.edds"
+ AlphaMulSatmap 1.2
+}
