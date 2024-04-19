@@ -1,0 +1,12 @@
+GenericEntity {
+ ID "6126D10A91D5B7DD"
+ components {
+  MeshObject "{6126D10AB3CF5EDF}" {
+   Object "{4AEA645E04941E68}Assets/Roads/RoadPlane/Road.xob"
+   CastShadow 0
+  }
+ }
+ coords 8673.208 10.452 6808.36
+ angleY 10.156
+ scale 6.047
+}

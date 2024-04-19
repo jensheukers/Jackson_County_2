@@ -1,0 +1,6 @@
+MatPBRRoadEnd {
+ SurfaceProperties "{1780FBB7FA2F25FC}Common/Materials/Game/asphalt.gamemat"
+ CavityFromAO 0
+ BCRMap "{0533C254CF56FB71}Assets/Roads/Data/4Lanes_End.edds"
+ NMOMap "{655DE64C40DDD86C}Assets/Roads/Data/4Lanes_End_NMO.edds"
+}
