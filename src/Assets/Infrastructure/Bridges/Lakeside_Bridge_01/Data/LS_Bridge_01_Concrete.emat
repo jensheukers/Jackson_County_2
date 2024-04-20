@@ -1,0 +1,4 @@
+MatPBRBasic {
+ BCRMap "{9E30BAF312D3774F}Assets/Infrastructure/Bridges/Lakeside_Bridge_01/Textures/LS_Bridge_01_Concrete_BCR.edds"
+ NMOMap "{A6E80161CBA425D1}Assets/Infrastructure/Bridges/Lakeside_Bridge_01/Textures/LS_Bridge_01_Concrete_NMO.edds"
+}

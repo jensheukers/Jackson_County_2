@@ -2773,6 +2773,7 @@ $grp SplineShapeEntity {
   {
    RoadGeneratorEntity : "{B48BEE7B554665B5}Prefabs/WEGenerators/Roads/Asphalt/RG_Road_us_asf1_dashedline.et" {
     coords 0 0 0
+    AdjustHeightMap 0
     {
      RoadEntity {
       ID "5C77168FCD57BC57"

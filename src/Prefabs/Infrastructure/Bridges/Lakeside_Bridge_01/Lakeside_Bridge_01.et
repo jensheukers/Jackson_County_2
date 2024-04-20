@@ -1,0 +1,13 @@
+GenericEntity {
+ ID "612745254A9605C9"
+ components {
+  MeshObject "{612745254A960625}" {
+   Object "{BD475FDB290FC781}Assets/Infrastructure/Bridges/Lakeside_Bridge_01/Lakeside_Bridge_01.xob"
+  }
+  RigidBody "{612745254A96062E}" {
+   ModelGeometry 1
+   Static 1
+  }
+ }
+ coords 6921.778 0 4817.617
+}

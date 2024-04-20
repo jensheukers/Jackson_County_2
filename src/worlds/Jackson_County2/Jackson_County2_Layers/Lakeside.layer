@@ -13756,6 +13756,10 @@ SCR_DestructibleBuildingEntity : "{22759E6CD7F7BFF8}Prefabs/Structures/Ruins/Hou
  coords 8301.651 0.003 6195.768
  angleY -35.341
 }
+GenericEntity : "{2EBC5032A205535D}Prefabs/Infrastructure/Bridges/Lakeside_Bridge_01/Lakeside_Bridge_01.et" {
+ coords 8507.794 15.866 6506.545
+ angleY 97.815
+}
 $grp GenericEntity : "{2F0069D72696AC0D}Prefabs/Structures/Flats/Flat_1.et" {
  {
   coords 8588.253 7.41 6657.518
