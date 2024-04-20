@@ -20,6 +20,16 @@ MetaFileClass {
     MeshParam LS_Bridge_01 {
     }
    }
+   GeometryParams {
+    GeometryParam UTM_LS_BRIDGE_01 {
+     LayerPreset "Building"
+     SurfaceProperties {
+      "{1A05231C3FD1627A}Common/Materials/Game/concrete.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+   }
    Common TXOCommonClass "{61272676AADBAA5F}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {
    }
   }
