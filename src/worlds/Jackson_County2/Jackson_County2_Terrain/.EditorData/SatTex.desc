@@ -3,5 +3,5 @@ SatGenDescClass {
  sRGBOutput 1
  RenderRoads 1
  Interpolation nearest
- RoadsAA "8x"
+ RoadsAA "2x"
 }

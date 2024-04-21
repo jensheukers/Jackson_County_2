@@ -1,5 +1,8 @@
 MatPBRRoad {
+ Color 0.133 0.133 0.133 1
  SurfaceProperties "{1780FBB7FA2F25FC}Common/Materials/Game/asphalt.gamemat"
+ SpecularMul 0.5
+ RoughnessScale 2
  CavityFromAO 0
  BCRMap "{27BB9F3C67F40E79}Assets/Roads/Data/2Lanes_BCR.edds"
  NMOMap "{1F6324AEBE835CE7}Assets/Roads/Data/2Lanes_NMO.edds"

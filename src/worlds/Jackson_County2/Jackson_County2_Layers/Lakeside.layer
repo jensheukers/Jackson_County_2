@@ -6131,10 +6131,10 @@ $grp PolylineShapeEntity {
   coords 8606.133 10.553 6813.544
   Points {
    ShapePoint "{5D173488BF5EBD8E}" {
-    Position 0 -0.001 0
+    Position -0.262 -0.116 2
    }
    ShapePoint "{5D173488BF5EBFE1}" {
-    Position -17.988 -0.08 -104.807
+    Position -18.296 -0.147 -104.754
    }
   }
   LineColor 0 0 0 0
@@ -6145,114 +6145,138 @@ $grp PolylineShapeEntity {
     {
      $grp StaticModelEntity : "{11992F1ACB53D74C}Prefabs/Structures/Infrastructure/Pavements/AsphaltPavement_01/AsphaltPavement_01_Wide_4m_C.et" {
       {
-       coords -2.004 -0.01 -11.676
-       angleY -260.261
+       _layer 6
+       coords -0.903 -0.117 -1.799
+       angleY -260.411
       }
       {
-       coords -7.413 -0.034 -43.191
-       angleY -260.261
-      }
-     }
-     $grp StaticModelEntity : "{2CAD0A22BE3F5E7B}Prefabs/Structures/Infrastructure/Pavements/AsphaltPavement_01/AsphaltPavement_01_Wide_4m_D.et" {
-      {
-       coords -4.032 -0.019 -23.494
-       angleY -260.261
+       _layer 6
+       coords -4.232 -0.122 -21.505
+       angleY -260.411
       }
       {
-       coords -6.061 -0.028 -35.312
-       angleY -260.261
+       _layer 6
+       coords -14.219 -0.14 -80.622
+       angleY -260.411
+      }
+      {
+       _layer 6
+       coords -15.551 -0.142 -88.504
+       angleY -260.411
       }
      }
      $grp StaticModelEntity : "{41BC91E022E94877}Prefabs/Structures/Infrastructure/Pavements/AsphaltPavement_01/AsphaltPavement_01_Wide_4m_A.et" {
       {
-       coords -0.652 -0.004 -3.797
-       angleY -260.261
+       _layer 6
+       coords -1.569 -0.118 -5.74
+       angleY -260.411
       }
       {
-       coords -1.328 -0.007 -7.737
-       angleY -260.261
+       _layer 6
+       coords -2.235 -0.119 -9.681
+       angleY -260.411
       }
       {
-       coords -2.68 -0.013 -15.615
-       angleY -260.261
+       _layer 6
+       coords -2.901 -0.12 -13.622
+       angleY -260.411
       }
       {
-       coords -3.356 -0.016 -19.555
-       angleY -260.261
+       _layer 6
+       coords -4.898 -0.124 -25.446
+       angleY -260.411
       }
       {
-       coords -4.708 -0.022 -27.434
-       angleY -260.261
+       _layer 6
+       coords -6.896 -0.127 -37.269
+       angleY -260.411
       }
       {
-       coords -5.385 -0.025 -31.373
-       angleY -260.261
+       _layer 6
+       coords -7.561 -0.128 -41.211
+       angleY -260.411
       }
       {
-       coords -6.737 -0.031 -39.252
-       angleY -260.261
+       _layer 6
+       coords -8.227 -0.129 -45.152
+       angleY -260.411
       }
       {
-       coords -8.765 -0.04 -51.07
-       angleY -260.261
+       _layer 6
+       coords -8.893 -0.13 -49.093
+       angleY -260.411
       }
       {
-       coords -9.441 -0.043 -55.009
-       angleY -260.261
+       _layer 6
+       coords -10.89 -0.134 -60.916
+       angleY -260.411
       }
       {
-       coords -11.47 -0.051 -66.828
-       angleY -260.261
+       _layer 6
+       coords -12.222 -0.136 -68.799
+       angleY -260.411
       }
       {
-       coords -12.822 -0.057 -74.706
-       angleY -260.261
+       _layer 6
+       coords -12.888 -0.137 -72.74
+       angleY -260.411
       }
       {
-       coords -13.498 -0.06 -78.646
-       angleY -260.261
+       _layer 6
+       coords -14.885 -0.141 -84.563
+       angleY -260.411
       }
       {
-       coords -14.174 -0.063 -82.585
-       angleY -260.261
-      }
-      {
-       coords -15.527 -0.069 -90.464
-       angleY -260.261
+       _layer 6
+       coords -16.217 -0.143 -92.446
+       angleY -260.411
       }
      }
      StaticModelEntity : "{57C8B7FC033B1E62}Prefabs/Structures/Infrastructure/Pavements/AsphaltPavement_01/AsphaltPavement_01_Wide_End_Right.et" {
-      coords -16.817 -0.075 -97.985
-      angleY -260.261
+      _layer 6
+      coords -16.822 -0.144 -96.029
+      angleY -260.411
      }
      StaticModelEntity : "{C93146DBB2DAC910}Prefabs/Structures/Infrastructure/Pavements/AsphaltPavement_01/AsphaltPavement_01_Wide_4m_E.et" {
-      coords -10.118 -0.046 -58.949
-      angleY -260.261
+      _layer 6
+      coords -6.23 -0.126 -33.328
+      angleY -260.411
      }
      StaticModelEntity : "{E64EC4ABCBADC227}Prefabs/Structures/Infrastructure/Pavements/AsphaltPavement_01/AsphaltPavement_01_Wide_End_Left.et" {
-      coords 0 -0.001 0
-      angleY -260.261
+      _layer 6
+      coords -0.262 -0.116 2
+      angleY -260.411
      }
      $grp StaticModelEntity : "{F40563E3C7B64027}Prefabs/Structures/Infrastructure/Pavements/AsphaltPavement_01/AsphaltPavement_01_Wide_4m_B.et" {
       {
-       coords -8.089 -0.037 -47.131
-       angleY -260.261
+       _layer 6
+       coords -3.567 -0.121 -17.564
+       angleY -260.411
       }
       {
-       coords -10.794 -0.048 -62.888
-       angleY -260.261
+       _layer 6
+       coords -5.564 -0.125 -29.387
+       angleY -260.411
       }
       {
-       coords -12.146 -0.054 -70.767
-       angleY -260.261
+       _layer 6
+       coords -9.559 -0.132 -53.034
+       angleY -260.411
       }
       {
-       coords -14.85 -0.066 -86.525
-       angleY -260.261
+       _layer 6
+       coords -10.224 -0.133 -56.975
+       angleY -260.411
       }
       {
-       coords -16.203 -0.072 -94.403
-       angleY -260.261
+       _layer 6
+       coords -11.556 -0.135 -64.857
+       angleY -260.411
+      }
+      {
+       _layer 6
+       coords -13.553 -0.139 -76.681
+       angleY -260.411
       }
      }
     }
@@ -13757,6 +13781,16 @@ SCR_DestructibleBuildingEntity : "{22759E6CD7F7BFF8}Prefabs/Structures/Ruins/Hou
  angleY -35.341
 }
 GenericEntity : "{2EBC5032A205535D}Prefabs/Infrastructure/Bridges/Lakeside_Bridge_01/Lakeside_Bridge_01.et" {
+ components {
+  MeshObject "{612745254A960625}" {
+   Materials {
+    MaterialAssignClass "{612AC95150ABA9DC}" {
+     SourceMaterial "LS_Bridge_01_4lanes"
+     AssignedMaterial "{C6B56DA66078E652}Assets/Roads/4Lanes.emat"
+    }
+   }
+  }
+ }
  coords 8507.794 15.866 6506.545
  angleY 97.815
 }

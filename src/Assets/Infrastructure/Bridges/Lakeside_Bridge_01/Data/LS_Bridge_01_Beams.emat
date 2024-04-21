@@ -1,4 +1,9 @@
 MatPBRBasic {
+ RoughnessScale 4.191
+ MetalnessScale 5
+ AOScale 2.61
+ CavityFromAO 0.301
  BCRMap "{F72B165D34CA377C}Assets/Infrastructure/Bridges/Lakeside_Bridge_01/Textures/LS_Bridge_01_Beams_BCR.edds"
+ NormalPower 4
  NMOMap "{CFF3ADCFEDBD65E2}Assets/Infrastructure/Bridges/Lakeside_Bridge_01/Textures/LS_Bridge_01_Beams_NMO.edds"
 }

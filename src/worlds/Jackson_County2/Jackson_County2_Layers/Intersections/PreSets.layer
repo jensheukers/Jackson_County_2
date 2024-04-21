@@ -1,0 +1,186 @@
+$grp SplineShapeEntity {
+ CWLine1 {
+  coords 8560.527 10.406 6614.541
+  angleY 0.69
+  angleZ 0
+  Points {
+   ShapePoint "{612AD438AB884801}" {
+    Position -16.473 0 -0.665
+   }
+   ShapePoint "{612AD43FE1483841}" {
+    Position -3.274 0 -2.859
+   }
+   ShapePoint "{612AD438AB8859CE}" {
+    Position 10.024 0 -5.169
+   }
+  }
+  {
+   RoadGeneratorEntity : "{84A7EE8056C08185}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line50_01.et" {
+    coords 0 0 0
+    RoadWidth 0.35
+    {
+     RoadEntity {
+      ID "56A8C9F906BDF4B1"
+      SplinePoints {
+       ShapePoint "{56A8C9FA35C571F9}" {
+        Position -16.473 0 -0.665
+       }
+       ShapePoint "{56A8C9FA35C57048}" {
+        Position -3.274 0 -2.859
+       }
+       ShapePoint "{612AD43FE1480A7E}" {
+        Position 10.024 0 -5.169
+       }
+      }
+      IsClosedSpline 0
+      Width 0.35
+     }
+    }
+   }
+  }
+ }
+ CWLine2 {
+  coords 8559.725 10.406 6609.749
+  angleY 0.69
+  angleZ 0
+  Points {
+   ShapePoint "{612AD438AB884801}" {
+    Position -16.688 0 -0.822
+   }
+   ShapePoint "{612AD43FE547C69E}" {
+    Position -3.356 0 -3.084
+   }
+   ShapePoint "{612AD438AB8859CE}" {
+    Position 9.908 0 -5.293
+   }
+  }
+  {
+   RoadGeneratorEntity : "{84A7EE8056C08185}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line50_01.et" {
+    coords 0 0 0
+    RoadWidth 0.35
+    {
+     RoadEntity {
+      ID "56A8C9F906BDF4B1"
+      SplinePoints {
+       ShapePoint "{56A8C9FA35C571F9}" {
+        Position -16.689 0 -0.822
+       }
+       ShapePoint "{56A8C9FA35C57048}" {
+        Position -3.357 0 -3.084
+       }
+       ShapePoint "{612AD43FE547D13A}" {
+        Position 9.908 0 -5.293
+       }
+      }
+      IsClosedSpline 0
+      Width 0.35
+     }
+    }
+   }
+  }
+ }
+ CWLineHider {
+  coords 8555.008 10.406 6615.692
+  angleY 0.69
+  angleZ 0
+  Points {
+   ShapePoint "{612AD4383FDA280F}" {
+    Position 1.198 -0 -10.261
+   }
+   ShapePoint "{612AD4383FDA3905}" {
+    Position 2.26 -0 -3.489
+   }
+  }
+  {
+   RoadGeneratorEntity : "{B0FB39C4902A9CD1}PrefabLibrary/Generators/Decals/Asphalt/RG_Asphalt_Patch_Stripe_01.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "559C616BD81F77F9"
+      SplinePoints {
+       ShapePoint "{612AD43839A0660F}" {
+        Position 1.198 -0 -10.261
+       }
+       ShapePoint "{612AD43839A065E9}" {
+        Position 2.26 -0 -3.489
+       }
+      }
+      IsClosedSpline 0
+      Width 1.5
+     }
+    }
+   }
+  }
+ }
+}
+DecalEntity : "{0C5E6215DC40BCDB}PrefabLibrary/Decals/Cracks/Decal_Asphalt_Cracks_05.et" {
+ coords 8542.689 0 6606.14
+ angleX -90
+ angleY 12.481
+ angleZ -2.901
+ scale 2.953
+}
+$grp DecalEntity : "{22B0830DD0070203}PrefabLibrary/Decals/Markings/Decal_CrossWalk_01.et" {
+ CW2 {
+  coords 8561.271 0 6608.381
+  angleX -89.972
+  angleZ 10.353
+  scale 4.572
+ }
+ CW4 {
+  coords 8565.741 0 6607.563
+  angleX -89.972
+  angleZ 10.353
+  scale 4.572
+ }
+ CW1_4LaneSU {
+  coords 8556.771 0 6609.212
+  angleX -89.98
+  angleZ 10.353
+  scale 4.572
+ }
+ CW3 {
+  coords 8552.303 0 6610.018
+  angleX -89.972
+  angleZ 10.353
+  scale 4.572
+ }
+ CW5 {
+  coords 8547.559 0 6610.817
+  angleX -89.972
+  angleY -0.112
+  angleZ 10.083
+  scale 4.572
+ }
+}
+$grp DecalEntity : "{8D2E929A1C8D0AEE}PrefabLibrary/Decals/Dirt/Decal_Dirt_Crossroad_01.et" {
+ {
+  coords 8839.454 -0.008 6660.772
+  angleX -90
+  angleZ -13.639
+  scale 4.8
+ }
+ {
+  coords 8840.985 0.04 6656.372
+  angleX -90
+  angleY 180
+  angleZ -103.639
+  scale 4.8
+ }
+}
+$grp DecalEntity : "{EEBECFFB3EF35A37}PrefabLibrary/Decals/Dirt/Decal_Dirt_Patch_07.et" {
+ {
+  coords 8840.175 0.062 6662.234
+  angleX -89.972
+  angleY 53.203
+  angleZ 175.834
+  scale 1.522
+ }
+ {
+  coords 8839.428 0.037 6651.649
+  angleX -90
+  angleY 139.602
+  angleZ -30
+  scale 1.841
+ }
+}

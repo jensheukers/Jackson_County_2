@@ -1,4 +1,12 @@
 MatPBRBasic {
+ Color 0.617 0.617 0.617 1
+ SpecularMul 0.77
+ RoughnessScale 1.14
+ MetalnessScale 0
+ AOScale 1.103
+ CavityFromAO 1
+ GlobalAOPower 1
  BCRMap "{9E30BAF312D3774F}Assets/Infrastructure/Bridges/Lakeside_Bridge_01/Textures/LS_Bridge_01_Concrete_BCR.edds"
+ NormalPower 0.588
  NMOMap "{A6E80161CBA425D1}Assets/Infrastructure/Bridges/Lakeside_Bridge_01/Textures/LS_Bridge_01_Concrete_NMO.edds"
 }
