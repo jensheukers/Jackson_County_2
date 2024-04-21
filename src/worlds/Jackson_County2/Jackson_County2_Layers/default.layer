@@ -13,6 +13,7 @@ GenericWorldEntity world {
  OceanSimulation "{824449EC2DE478DD}Terrains/Common/Water/Ocean/Simulation/oceanSimIsland.emat"
 }
 GenericTerrainEntity Jackson_County2_Terrain {
+ LayerPreset "Terrain"
 }
 GenericWorldLightEntity {
  coords 22.538 429.331 150.124
@@ -391,5 +392,5 @@ GenericEntity : "{1FF659EBBD597487}Prefabs/Decals/RoadPlane/RoadPlane.et" {
 GenericEntity : "{56DA7A01AE88C7D6}Prefabs/Sounds/Environment/Arland/AmbientSounds_Arland.et" {
 }
 Vehicle S105_base1 : "{DA79E34823120087}Prefabs/Vehicles/Wheeled/S105/S105_base.et" {
- coords 8368.491 10.439 6632.333
+ coords 8373.553 10.439 6620.077
 }
