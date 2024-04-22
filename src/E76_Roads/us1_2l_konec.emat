@@ -1,5 +1,0 @@
-MatPBRRoadEnd {
- BCRMap "{AB25D541B6646E83}e76_roads/Data/us1_2l_konec_ca.edds"
- OpacityMap "{1372E72533B5518C}e76_roads/Data/us1_2l_SM.edds"
- NMOMap "{ED70513A291153DD}e76_roads/Data/us1_2l_NOHQ.edds"
-}

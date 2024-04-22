@@ -1,5 +1,0 @@
-MatPBRDecal {
- BlendMode None
- BCRMap "{74BFEE98B923EC92}Assets/Roads/RoadPlane/Data/Asphalt_BCR.edds"
- NMOMap "{4C67550A6054BE0C}Assets/Roads/RoadPlane/Data/Asphalt_NMO.edds"
-}
