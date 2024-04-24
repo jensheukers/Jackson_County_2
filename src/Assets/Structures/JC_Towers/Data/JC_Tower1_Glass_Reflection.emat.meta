@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{7F0B49E4D4B9A650}Assets/Structures/JC_Towers/Data/JC_Tower1_Glass_Reflection.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}
