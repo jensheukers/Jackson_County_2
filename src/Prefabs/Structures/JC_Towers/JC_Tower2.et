@@ -1,0 +1,15 @@
+GenericEntity {
+ ID "6142C748673F534D"
+ components {
+  MeshObject "{6142C748673F53B9}" {
+   Object "{42E73A0724494564}Assets/Structures/JC_Towers/JC_Tower2.xob"
+   ClutterOccluder 0
+  }
+  RigidBody "{6142C748673F53A4}" {
+   ModelGeometry 1
+   Static 1
+  }
+ }
+ coords 8831.44 9.902 7320.239
+ angleY 109.354
+}

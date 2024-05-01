@@ -3088,10 +3088,6 @@ $grp StaticModelEntity : "{57C8B7FC033B1E62}Prefabs/Structures/Infrastructure/Pa
   angleY 99.861
  }
 }
-LightEntity : "{8351F4F8AB128B7B}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_02/LightPrefabs/LampStreet_E_02_light.et" {
- coords 8582.836 10.406 6362.467
- angleX 0
-}
 DecalEntity : "{94B3F1BDE07AF241}PrefabLibrary/Decals/Asphalt/Decal_Asphalt_Patch_L_01.et" {
  coords 8545.479 0 6607.786
  angleX -89.98

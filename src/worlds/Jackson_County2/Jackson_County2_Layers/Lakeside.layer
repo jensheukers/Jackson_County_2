@@ -10198,10 +10198,6 @@ GenericEntity : "{2EBC5032A205535D}Prefabs/Infrastructure/Bridges/Lakeside_Bridg
  coords 8507.794 15.866 6506.545
  angleY 97.815
 }
-GenericEntity : "{2F0069D72696AC0D}Prefabs/Structures/Flats/Flat_1.et" {
- coords 8594.721 7.381 6683.218
- angleY -170.032
-}
 SCR_DestructibleBuildingEntity : "{3E7CF4C5E180F5D1}Prefabs/Structures/Ruins/HouseRuins/HouseRuin_01/HouseRuin_01_Windows.et" {
  coords 8303.753 1.806 6211.663
  angleY 58.337
@@ -10397,6 +10393,10 @@ $grp GenericEntity : "{B6A096447B215355}Prefabs/Rocks/Granite/GraniteCliff_03.et
   angleZ 0.268
   scale 1.55
  }
+}
+GenericEntity : "{C4BD9D6A913F63B2}Prefabs/Structures/JC_Towers/JC_Tower2.et" {
+ coords 8593.065 10.406 6683.763
+ angleY -79.916
 }
 SCR_DestructibleBuildingEntity : "{CFE8511B2B7E8AAA}Prefabs/Structures/Commercial/Shops/ShopModern_E_01.et" {
  coords 8326.969 0.125 6324.094
