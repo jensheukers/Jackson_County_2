@@ -10175,6 +10175,70 @@ $grp SplineShapeEntity {
    }
   }
  }
+ {
+  coords 8383.109 10.441 6670.287
+  Points {
+   ShapePoint "{61636E2730E7A162}" {
+    Position 0 -0.004 0
+   }
+   ShapePoint "{61636E2730E784B0}" {
+    Position 43.009 -0.004 -5.426
+   }
+  }
+  {
+   RoadGeneratorEntity : "{F4E4E9D5D8422130}Prefabs/WEGenerators/Roads/2Lanes.et" {
+    coords 0 0 0
+    AdjustHeightMap 0
+    {
+     RoadEntity {
+      ID "6129121C02262090"
+      SplinePoints {
+       ShapePoint "{556C6554868CB1B0}" {
+        Position 0 -0.004 0
+       }
+       ShapePoint "{556C6554868CB0CE}" {
+        Position 43.009 -0.004 -5.426
+       }
+      }
+      IsClosedSpline 0
+      Width 12
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 8448.483 10.441 6659.027
+  Points {
+   ShapePoint "{61636E2730E7A162}" {
+    Position 0 -0.004 1.676
+   }
+   ShapePoint "{61636E2730E784B0}" {
+    Position 28.388 -0.004 -3.39
+   }
+  }
+  {
+   RoadGeneratorEntity : "{F4E4E9D5D8422130}Prefabs/WEGenerators/Roads/2Lanes.et" {
+    coords 0 0 0
+    AdjustHeightMap 0
+    {
+     RoadEntity {
+      ID "6129121C02262090"
+      SplinePoints {
+       ShapePoint "{556C6554868CB1B0}" {
+        Position 0 -0.004 1.676
+       }
+       ShapePoint "{556C6554868CB0CE}" {
+        Position 28.388 -0.004 -3.39
+       }
+      }
+      IsClosedSpline 0
+      Width 12
+     }
+    }
+   }
+  }
+ }
 }
 StaticModelEntity : "{07F043DD6AACCD0B}Prefabs/Structures/Infrastructure/Barriers/BarGate_01/BarGate_01.et" {
  coords 7874.077 0.02 5989.469
@@ -10393,10 +10457,298 @@ $grp GenericEntity : "{B6A096447B215355}Prefabs/Rocks/Granite/GraniteCliff_03.et
   angleZ 0.268
   scale 1.55
  }
+ {
+  coords 8507.356 -19.676 6872.462
+  angleX 5.472
+  angleY -46.561
+  angleZ 3.629
+  scale 1.55
+ }
+ {
+  coords 8526.116 -21.41 6892.515
+  angleX 5.955
+  angleY -55.229
+  angleZ 2.764
+  scale 1.55
+ }
+ {
+  coords 8542.268 -22.878 6911.034
+  angleX 5.955
+  angleY -55.229
+  angleZ 2.764
+  scale 1.55
+ }
+ {
+  coords 8555.673 -24.015 6930.55
+  angleX 5.955
+  angleY -55.229
+  angleZ 2.764
+  scale 1.55
+ }
+ {
+  coords 8554.392 -19.494 6934.564
+  angleX 6.51
+  angleY -87.511
+  angleZ -0.835
+  scale 1.55
+ }
+ {
+  coords 8555.404 -19.169 6957.011
+  angleX 6.51
+  angleY -87.511
+  angleZ -0.835
+  scale 1.55
+ }
+ {
+  coords 8562.521 -21.486 6982.282
+  angleX 6.51
+  angleY -87.511
+  angleZ -0.835
+  scale 1.55
+ }
+ {
+  coords 8567.793 -21.686 7002.563
+  angleX 6.51
+  angleY -87.511
+  angleZ -0.835
+  scale 1.55
+ }
+ {
+  coords 8463.185 11.481 6938.84
+  angleX 11.472
+  angleY 102.03
+  angleZ -178.069
+  scale 1.55
+ }
+ {
+  coords 8461.655 -19.543 6905.214
+  angleX -6.557
+  angleY 97.465
+  angleZ 0.268
+  scale 1.55
+ }
+ {
+  coords 8454.679 10.798 6887.147
+  angleX 11.472
+  angleY 102.03
+  angleZ -178.069
+  scale 1.55
+ }
+ {
+  coords 8511.424 11.237 7004.002
+  angleX 9.503
+  angleY 127.998
+  angleZ 179.662
+  scale 1.55
+ }
+ {
+  coords 8493.886 -21.208 6973.997
+  angleX -8.685
+  angleY 124.124
+  angleZ -1.83
+  scale 1.55
+ }
+ {
+  coords 8475.123 10.367 6948.972
+  angleX 9.503
+  angleY 127.998
+  angleZ 179.662
+  scale 1.55
+ }
+ {
+  coords 8608.589 -24.691 7085.217
+  angleX 6.506
+  angleY -72.62
+  angleZ 0.863
+  scale 1.55
+ }
+ {
+  coords 8596.944 -21.163 7067.431
+  angleX 6.506
+  angleY -72.62
+  angleZ 0.863
+  scale 1.55
+ }
+ {
+  coords 8580.402 -20.262 7045.85
+  angleX 6.506
+  angleY -72.62
+  angleZ 0.863
+  scale 1.55
+ }
+ {
+  coords 8574.059 -19.965 7024.291
+  angleX 6.506
+  angleY -72.62
+  angleZ 0.863
+  scale 1.55
+ }
+ {
+  coords 8517.852 -21.213 7033.854
+  angleX -5.566
+  angleY 131.924
+  angleZ -3.483
+  scale 1.55
+ }
+ {
+  coords 8532.066 -24.489 7051.219
+  angleX -6.27
+  angleY 117.066
+  angleZ -1.943
+  scale 1.55
+ }
+ {
+  coords 8545.194 -25.658 7067.51
+  angleX -6.27
+  angleY 117.066
+  angleZ -1.943
+  scale 1.55
+ }
+ {
+  coords 8559.024 -24.937 7081.985
+  angleX -5.566
+  angleY 131.924
+  angleZ -3.483
+  scale 1.55
+ }
+ {
+  coords 8573.24 -28.213 7099.351
+  angleX -6.27
+  angleY 117.066
+  angleZ -1.943
+  scale 1.55
+ }
+ {
+  coords 8581.489 -21.629 7118.405
+  angleX -6.27
+  angleY 117.066
+  angleZ -1.943
+  scale 1.55
+ }
+ {
+  coords 8587.038 -20.325 7132.325
+  angleX -5.824
+  angleY 127.369
+  angleZ -3.031
+  scale 1.55
+ }
+ {
+  coords 8603.188 -23.826 7149.397
+  angleX -6.404
+  angleY 112.501
+  angleZ -1.439
+  scale 1.55
+ }
+ {
+  coords 8611.652 -24.42 7168.063
+  angleX -6.404
+  angleY 112.501
+  angleZ -1.439
+  scale 1.55
+ }
+ {
+  coords 8624.303 -23.545 7183.574
+  angleX -5.824
+  angleY 127.369
+  angleZ -3.031
+  scale 1.55
+ }
+ {
+  coords 8624.045 -18.102 7190.668
+  angleX -6.404
+  angleY 112.501
+  angleZ -1.439
+  scale 1.55
+ }
+ {
+  coords 8437.084 10.798 6824.705
+  angleX 11.472
+  angleY 102.03
+  angleZ -178.069
+  scale 1.55
+ }
+ {
+  coords 8428.854 -30.988 6643.762
+  angleX 10.812
+  angleY 93.816
+  angleZ 0.717
+  scale 1.984
+ }
 }
 GenericEntity : "{C4BD9D6A913F63B2}Prefabs/Structures/JC_Towers/JC_Tower2.et" {
  coords 8593.065 10.406 6683.763
  angleY -79.916
+}
+$grp GenericEntity : "{CA737E6721C3E9D2}Prefabs/Infrastructure/Bridges/Lakeside_Bridge_01/Lakeside_Bridge_01_Cut.et" {
+ {
+  components {
+   MeshObject "{61636E2D13C674E3}" {
+    Materials {
+     MaterialAssignClass "{61636E2D2E723F07}" {
+      SourceMaterial "LS_Bridge_01_4lanes"
+      AssignedMaterial "{218740DB69D2A077}Assets/Roads/2LanesSolidLine.emat"
+     }
+    }
+   }
+   RigidBody "{61636E2D13C674FC}" {
+    ModelGeometry 1
+    Static 1
+   }
+  }
+  coords 8644.491 11.485 7231.153
+  angleX -0.8
+  angleY 64.595
+  scale 0.6
+ }
+ {
+  components {
+   MeshObject "{61636E2D13C674E3}" {
+    Materials {
+     MaterialAssignClass "{61636E2D2E723F07}" {
+      SourceMaterial "LS_Bridge_01_4lanes"
+      AssignedMaterial "{218740DB69D2A077}Assets/Roads/2LanesSolidLine.emat"
+     }
+    }
+   }
+   RigidBody "{61636E2D13C674FC}" {
+    ModelGeometry 1
+    Static 1
+   }
+  }
+  coords 8684.646 10.864 7250.225
+  angleX -0.8
+  angleY 64.595
+  scale 0.6
+ }
+ {
+  components {
+   RigidBody "{61636E2D13C674FC}" {
+    ModelGeometry 1
+    Static 1
+   }
+  }
+  coords 8473.72 9.849 6850.827
+  angleY 99.886
+ }
+ {
+  components {
+   MeshObject "{61636E2D13C674E3}" {
+    Materials {
+     MaterialAssignClass "{61636E2D2E723F07}" {
+      SourceMaterial "LS_Bridge_01_4lanes"
+      AssignedMaterial "{A12DEA482A28FFCF}Assets/Roads/2Lanes.emat"
+     }
+    }
+   }
+   RigidBody "{61636E2D13C674FC}" {
+    ModelGeometry 1
+    Static 1
+   }
+  }
+  coords 8445.85 10.407 6661.609
+  angleY 99.886
+  scale 0.5
+ }
 }
 SCR_DestructibleBuildingEntity : "{CFE8511B2B7E8AAA}Prefabs/Structures/Commercial/Shops/ShopModern_E_01.et" {
  coords 8326.969 0.125 6324.094
@@ -10421,4 +10773,42 @@ SCR_DestructibleBuildingEntity : "{FD627D9924A59061}Prefabs/Structures/Industria
 SCR_DestructibleBuildingEntity : "{FF45F0D3CBF5F8A6}Prefabs/Structures/Infrastructure/Bus/BusShed_E_01/BusShed_E_01_green.et" {
  coords 8284.472 0.132 6341.944
  angleY 130.401
+}
+$grp SCR_DestructibleBuildingEntity : "{FF4D386515F942C0}Prefabs/Structures/Infrastructure/Bridges/ConcreteBridge_01/ConcreteBridge_01_Pillar.et" {
+ {
+  coords 8665.514 3.522 7239.875
+  angleY -23.312
+ }
+ {
+  coords 8665.514 -7.698 7239.875
+  angleY -23.312
+ }
+ {
+  coords 8555.953 10.406 6484.144
+  angleY 7.344
+ }
+ {
+  coords 8590.544 10.406 6479.483
+  angleY 7.344
+ }
+ {
+  coords 8518.323 10.406 6489.324
+  angleY 8.583
+ }
+ {
+  coords 8468.078 9.571 6497.807
+  angleY 8.583
+ }
+ {
+  coords 8446.927 9.571 6505.048
+  angleY 8.583
+ }
+ {
+  coords 8415.015 7.381 6530.803
+  angleY 50.096
+ }
+ {
+  coords 8628.595 10.406 6473.987
+  angleY 7.344
+ }
 }

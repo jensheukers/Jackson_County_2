@@ -1,0 +1,19 @@
+GenericEntity {
+ ID "61636E2D0DD32187"
+ components {
+  MeshObject "{61636E2D13C674E3}" {
+   Object "{BE1F14C8DFBD0345}Assets/Infrastructure/Bridges/Lakeside_Bridge_01/Lakeside_Bridge_01_Cut.xob"
+   Materials {
+    MaterialAssignClass "{61636E2D2E723F07}" {
+     SourceMaterial "LS_Bridge_01_4lanes"
+     AssignedMaterial "{C6B56DA66078E652}Assets/Roads/4Lanes.emat"
+    }
+   }
+  }
+  RigidBody "{61636E2D13C674FC}" {
+   ModelGeometry 1
+   Static 1
+  }
+ }
+ coords 8689.144 9.831 7229.229
+}
