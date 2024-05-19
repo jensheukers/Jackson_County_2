@@ -10302,7 +10302,7 @@ $grp SCR_DestructibleBuildingEntity : "{5CADC96916FF1CC4}Prefabs/Structures/Hous
   angleY 110.318
  }
  {
-  coords 8656.728 0.48 6992.058
+  coords 8661.251 0.48 6991.251
   angleY -79.891
  }
 }
