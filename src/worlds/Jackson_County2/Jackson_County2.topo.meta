@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{C58B1CCD654CDD6C}worlds/Jackson_County2/Jackson_County2.topo"
+ Configurations {
+  MapTopoResourceClass PC {
+  }
+  MapTopoResourceClass XBOX_ONE : PC {
+  }
+  MapTopoResourceClass XBOX_SERIES : PC {
+  }
+  MapTopoResourceClass PS4 : PC {
+  }
+  MapTopoResourceClass PS5 : PC {
+  }
+  MapTopoResourceClass HEADLESS : PC {
+  }
+ }
+}

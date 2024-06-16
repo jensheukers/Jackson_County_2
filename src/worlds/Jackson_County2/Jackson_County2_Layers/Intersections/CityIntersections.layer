@@ -5580,16 +5580,8 @@ $grp StaticModelEntity : "{F40563E3C7B64027}Prefabs/Structures/Infrastructure/Pa
   angleY 100.113
  }
  {
-  coords 8616.976 0.007 6449.05
-  angleY 100.113
- }
- {
   coords 8623.773 -0.032 6487.154
   angleY 100.112
- }
- {
-  coords 8617.67 0 6452.99
-  angleY 100.113
  }
  {
   coords 8624.476 -0.032 6491.104

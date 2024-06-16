@@ -7832,6 +7832,40 @@ $grp SplineShapeEntity {
    }
   }
  }
+ {
+  coords 8565.791 10.406 6697.733
+  Points {
+   ShapePoint "{6126D1024AC96848}" {
+    Position -8.402 0 -86.095
+   }
+   ShapePoint "{6126D1024AC9A1B2}" {
+    Position 26.557 0 120.736
+   }
+  }
+  {
+   RoadGeneratorEntity : "{0771C787372E15DE}Prefabs/WEGenerators/Roads/4Lanes.et" {
+    coords 0 0 0
+    AdjustHeightMap 0
+    {
+     RoadEntity {
+      ID "6126D10225F1F27C"
+      SplinePoints {
+       ShapePoint "{556C6554868CB1B0}" {
+        Position -8.402 0 -86.095
+       }
+       ShapePoint "{556C6554868CB0CE}" {
+        Position 26.557 0 120.736
+       }
+      }
+      IsClosedSpline 0
+      Width 24
+      BeginningPiece none
+      EndingPiece none
+     }
+    }
+   }
+  }
+ }
 }
 $grp StaticModelEntity : "{57C8B7FC033B1E62}Prefabs/Structures/Infrastructure/Pavements/AsphaltPavement_01/AsphaltPavement_01_Wide_End_Right.et" {
  {
